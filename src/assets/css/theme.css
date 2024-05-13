@@ -1,0 +1,483 @@
+.pink_theme,
+.pink_theme .colortheme-button button,
+.pink_theme .headerboxsize,
+#pr_id_11 {
+  color: #ad57f0 !important;
+}
+.pink_theme .nav-item button i {
+  color: #ad57f0;
+}
+
+.pink_theme button,
+.pink_theme #dropdown-basic {
+  background-color: #ad57f0;
+  border-color: #ad57f0 !important;
+  /* color: #fff !important; */
+}
+
+.pink_theme .card_background {
+  background-color: #ad57f0 !important;
+  color: #fff;
+}
+.pink_theme button:focus {
+  background-color: #ad57f0;
+  border-color: #ad57f0 !important;
+}
+.pink_theme button:hover {
+  background-color: #ad57f0;
+}
+.pink_theme a.active {
+  background-color: #ad57f0 !important;
+}
+.pink_theme .form-control:focus,
+.pink_theme .p-autocomplete-input:focus,
+.pink_theme .p-autocomplete-input:hover {
+  border-color: #ad57f0 !important;
+}
+.pink_theme > .p-dialog-header {
+  background-color: #ad57f0 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+
+.green_theme,
+.green_theme .colortheme-button button,
+.green_theme .headerboxsize {
+  color: #207c45 !important;
+}
+.green_theme .nav-item button i {
+  color: #207c45;
+}
+.green_theme button,
+.green_theme #dropdown-basic {
+  background-color: #207c45;
+  border-color: #207c45 !important;
+}
+.green_theme .card_background {
+  background-color: #207c45 !important;
+  color: #fff;
+}
+.green_theme button:focus {
+  background-color: #207c45;
+  border-color: #207c45 !important;
+}
+.green_theme button:hover {
+  background-color: #207c45;
+}
+.green_theme a.active {
+  background-color: #207c45 !important;
+}
+.green_theme .form-control:focus,
+.green_theme .p-autocomplete-input:focus,
+.green_theme .p-autocomplete-input:hover {
+  border-color: #207c45;
+}
+.green_theme > .p-dialog-header {
+  background-color: #207c45 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+.blue_theme,
+.colortheme-button button,
+.blue_theme .headerboxsize {
+  color: #216378 !important;
+}
+.blue_theme .nav-item button i {
+  color: #216378;
+}
+.blue_theme button,
+.blue_theme #dropdown-basic {
+  background-color: #216378;
+  border-color: #216378 !important;
+}
+.blue_theme .card_background {
+  background-color: #216378 !important;
+  color: #fff;
+}
+.blue_theme button:focus {
+  background-color: #216378;
+  border-color: #216378 !important;
+}
+.blue_theme button:hover {
+  background-color: #216378;
+}
+.blue_theme a.active {
+  background-color: #216378 !important;
+  /* .p-tooltip{
+    background-color:red;
+  }    */
+}
+.blue_theme .form-control:focus,
+.blue_theme .p-autocomplete-input:focus,
+.blue_theme .p-autocomplete-input:hover {
+  border-color: #216378;
+}
+
+.blue_theme > .p-dialog-header {
+  background-color: #216378 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+.blue_icon {
+  padding-left: 20px;
+  background: #216378;
+  border-radius: 3px;
+}
+.green_icon {
+  padding-left: 20px;
+  background: #207c45;
+  border-radius: 3px;
+}
+.pink_icon {
+  padding-left: 20px;
+  background: #ad57f0;
+  border-radius: 3px;
+}
+
+/* Default Theme */
+.default_icon {
+  padding-left: 20px;
+  background: #605ca8;
+  border-radius: 3px;
+}
+
+.default_theme,
+.default_theme .colortheme-button button,
+.default_theme .headerboxsize,
+#pr_id_11 {
+  color: #605ca8 !important;
+}
+.default_theme .nav-item button i {
+  color: #605ca8;
+}
+
+.default_theme button,
+.default_theme #dropdown-basic {
+  background-color: #605ca8;
+  border-color: #605ca8 !important;
+  /* color: #fff !important; */
+}
+
+.default_theme .card_background {
+  background-color: #605ca8 !important;
+  color: #fff;
+}
+.default_theme button:focus {
+  background-color: #605ca8;
+  border-color: #605ca8 !important;
+}
+.default_theme button:hover {
+  background-color: #605ca8;
+}
+.default_theme a.active {
+  background-color: #605ca8 !important;
+}
+.default_theme .form-control:focus,
+.default_theme .p-autocomplete-input:focus,
+.default_theme .p-autocomplete-input:hover {
+  border-color: #605ca8 !important;
+}
+.default_theme > .p-dialog-header {
+  background-color: #605ca8 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+
+/* light_green Theme */
+.light_green_icon {
+  padding-left: 20px;
+  background: #3cbc67;
+  border-radius: 3px;
+}
+
+.light_green_theme,
+.light_green_theme .colortheme-button button,
+.light_green_theme .headerboxsize,
+#pr_id_11 {
+  color: #3cbc67 !important;
+}
+.light_green_theme .nav-item button i {
+  color: #3cbc67;
+}
+
+.light_green_theme button,
+.light_green_theme #dropdown-basic {
+  background-color: #3cbc67;
+  border-color: #3cbc67 !important;
+  /* color: #fff !important; */
+}
+
+.light_green_theme .card_background {
+  background-color: #3cbc67 !important;
+  color: #fff;
+}
+.light_green_theme button:focus {
+  background-color: #3cbc67;
+  border-color: #3cbc67 !important;
+}
+.light_green_theme button:hover {
+  background-color: #3cbc67;
+}
+.light_green_theme a.active {
+  background-color: #3cbc67 !important;
+}
+.light_green_theme .form-control:focus,
+.light_green_theme .p-autocomplete-input:focus,
+.light_green_theme .p-autocomplete-input:hover {
+  border-color: #3cbc67 !important;
+}
+.light_green_theme > .p-dialog-header {
+  background-color: #3cbc67 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+
+/* peach Theme */
+.peach_icon {
+  padding-left: 20px;
+  background: #bc8f3c;
+  border-radius: 3px;
+}
+
+.peach_theme,
+.peach_theme .colortheme-button button,
+.peach_theme .headerboxsize,
+#pr_id_11 {
+  color: #bc8f3c !important;
+}
+.peach_theme .nav-item button i {
+  color: #bc8f3c;
+}
+
+.peach_theme button,
+.peach_theme #dropdown-basic {
+  background-color: #bc8f3c;
+  border-color: #bc8f3c !important;
+  /* color: #fff !important; */
+}
+
+.peach_theme .card_background {
+  background-color: #bc8f3c !important;
+  color: #fff;
+}
+.peach_theme button:focus {
+  background-color: #bc8f3c;
+  border-color: #bc8f3c !important;
+}
+.peach_theme button:hover {
+  background-color: #bc8f3c;
+}
+.peach_theme a.active {
+  background-color: #bc8f3c !important;
+}
+.peach_theme .form-control:focus,
+.peach_theme .p-autocomplete-input:focus,
+.peach_theme .p-autocomplete-input:hover {
+  border-color: #bc8f3c !important;
+}
+.peach_theme > .p-dialog-header {
+  background-color: #bc8f3c !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+/* pale pink Theme */
+.pale_pink_icon {
+  padding-left: 20px;
+  background: #bc3c8b;
+  border-radius: 3px;
+}
+
+.pale_pink_theme,
+.pale_pink_theme .colortheme-button button,
+.pale_pink_theme .headerboxsize,
+#pr_id_11 {
+  color: #bc3c8b !important;
+}
+.pale_pink_theme .nav-item button i {
+  color: #bc3c8b;
+}
+
+.pale_pink_theme button,
+.pale_pink_theme #dropdown-basic {
+  background-color: #bc3c8b;
+  border-color: #bc3c8b !important;
+  /* color: #fff !important; */
+}
+
+.pale_pink_theme .card_background {
+  background-color: #bc3c8b !important;
+  color: #fff;
+}
+.pale_pink_theme button:focus {
+  background-color: #bc3c8b;
+  border-color: #bc3c8b !important;
+}
+.pale_pink_theme button:hover {
+  background-color: #bc3c8b;
+}
+.pale_pink_theme a.active {
+  background-color: #bc3c8b !important;
+}
+.pale_pink_theme .form-control:focus,
+.pale_pink_theme .p-autocomplete-input:focus,
+.pale_pink_theme .p-autocomplete-input:hover {
+  border-color: #bc3c8b !important;
+}
+.pale_pink_theme > .p-dialog-header {
+  background-color: #bc3c8b !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+
+/* Red  Theme */
+.red_icon {
+  padding-left: 20px;
+  background: #8b2424;
+  border-radius: 3px;
+}
+
+.red_theme,
+.red_theme .colortheme-button button,
+.red_theme .headerboxsize,
+#pr_id_11 {
+  color: #8b2424 !important;
+}
+.red_theme .nav-item button i {
+  color: #8b2424;
+}
+
+.red_theme button,
+.red_theme #dropdown-basic {
+  background-color: #8b2424;
+  border-color: #8b2424 !important;
+  /* color: #fff !important; */
+}
+
+.red_theme .card_background {
+  background-color: #8b2424 !important;
+  color: #fff;
+}
+.red_theme button:focus {
+  background-color: #8b2424;
+  border-color: #8b2424 !important;
+}
+.red_theme button:hover {
+  background-color: #8b2424;
+}
+.red_theme a.active {
+  background-color: #8b2424 !important;
+}
+.red_theme .form-control:focus,
+.red_theme .p-autocomplete-input:focus,
+.red_theme .p-autocomplete-input:hover {
+  border-color: #8b2424 !important;
+}
+.red_theme > .p-dialog-header {
+  background-color: #8b2424 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+
+/* Sky blue Theme */
+.sky_blue_icon {
+  padding-left: 20px;
+  background: #077386;
+  border-radius: 3px;
+}
+.sky_blue_theme,
+.sky_blue_theme .colortheme-button button,
+.sky_blue_theme .headerboxsize,
+#pr_id_11 {
+  color: #077386 !important;
+}
+.sky_blue_theme .nav-item button i {
+  color: #077386;
+}
+
+.sky_blue_theme button,
+.sky_blue_theme #dropdown-basic {
+  background-color: #077386;
+  border-color: #077386 !important;
+  /* color: #fff !important; */
+}
+
+.sky_blue_theme .card_background {
+  background-color: #077386 !important;
+  color: #fff;
+}
+.sky_blue_theme button:focus {
+  background-color: #077386;
+  border-color: #077386 !important;
+}
+.sky_blue_theme button:hover {
+  background-color: #077386;
+}
+.sky_blue_theme a.active {
+  background-color: #077386 !important;
+}
+.sky_blue_theme .form-control:focus,
+.sky_blue_theme .p-autocomplete-input:focus,
+.sky_blue_theme .p-autocomplete-input:hover {
+  border-color: #077386 !important;
+}
+.sky_blue_theme > .p-dialog-header {
+  background-color: #077386 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+
+/* gray Theme */
+.gray_icon {
+  padding-left: 20px;
+  background: #666866;
+  border-radius: 3px;
+}
+.gray_theme,
+.gray_theme .colortheme-button button,
+.gray_theme .headerboxsize,
+#pr_id_11 {
+  color: #666866 !important;
+}
+.gray_theme .nav-item button i {
+  color: #666866;
+}
+
+.gray_theme button,
+.gray_theme #dropdown-basic {
+  background-color: #666866;
+  border-color: #666866 !important;
+  /* color: #fff !important; */
+}
+
+.gray_theme .card_background {
+  background-color: #666866 !important;
+  color: #fff;
+}
+.gray_theme button:focus {
+  background-color: #666866;
+  border-color: #666866 !important;
+}
+.gray_theme button:hover {
+  background-color: #666866;
+}
+.gray_theme a.active {
+  background-color: #666866 !important;
+}
+.gray_theme .form-control:focus,
+.gray_theme .p-autocomplete-input:focus,
+.gray_theme .p-autocomplete-input:hover {
+  border-color: #666866 !important;
+}
+.gray_theme > .p-dialog-header {
+  background-color: #666866 !important;
+  padding: 0px 19px 7px 20px !important;
+  color: #fff !important;
+}
+

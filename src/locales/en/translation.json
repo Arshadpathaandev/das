@@ -1,0 +1,333 @@
+{
+  "login": {
+    "label": {
+      "signIn": "Sign in to start your session",
+      "rememberMe": "Remember Me",
+      "forgotPass": "I forgot my password",
+      "registerNew": "Register a new membership"
+    },
+    "button": {
+      "signIn": {
+        "label": "Sign In",
+        "social": "Sign in using {{what}}"
+      },
+      "signUp": {
+        "label": "Sign Up",
+        "social": "Sign up using {{what}}"
+      },
+      "signOut": "Sign Out"
+    }
+  },
+  "register": {
+    "alreadyHave": "I already have a membership",
+    "registerNew": "Register a new membership",
+    "label": "Register"
+  },
+  "recover": {
+    "forgotYourPassword": "You forgot your password? Here you can easily retrieve a new password.",
+    "oneStepAway": "You are only one step a way from your new password, recover your password now.",
+    "changePassword": "Change Password",
+    "requestNewPassword": "Request New Password"
+  },
+  "main": {
+    "label": {
+      "moreInfo": "More info",
+      "follow": "Follow",
+      "aboutMe": "About Me",
+      "education": "Education",
+      "location": "Location",
+      "skills": "Skills",
+      "notes": "Notes",
+      "activity": "Activity",
+      "timeline": "Timeline",
+      "settings": "Settings"
+    }
+  },
+  "header": {
+    "label": {
+      "home": "Home",
+      "contact": "Contact"
+    },
+    "language": {
+      "turkish": "Turkish",
+      "english": "English",
+      "german": "German",
+      "french": "French",
+      "spanish": "Spanish"
+    },
+    "theme": {
+      "Blue": "Blue",
+      "Pink": "Pink",
+      "Green": "Green"
+    },
+    "messages": {
+      "ago": "{{quantity}} {{unit}} Ago",
+      "seeAll": "See All Messages"
+    },
+    "notifications": {
+      "count": "{{quantity}} Notifications",
+      "newMessagesCount": "{{quantity}} new messages",
+      "friendRequestsCount": "{{quantity}} friend requests",
+      "reportsCount": "{{quantity}} new reports",
+      "seeAll": "See All Notifications"
+    },
+    "user": {
+      "profile": "Profile",
+      "followers": "Followers",
+      "sales": "Sales",
+      "friends": "Friends"
+    }
+  },
+  "menusidebar": {
+    "label": {
+      "dashboard": "Dashboard",
+      "profile": "Profile",
+      "blank": "Blank",
+      "mainMenu": "Main Menu",
+      "subMenu": "Sub Menu"
+    }
+  },
+  "footer": {
+    "version": "Version",
+    "copyright": "All rights reserved."
+  },
+  "views": {
+    "user": {
+      "profile": "User Profile",
+      "following": "Following"
+    }
+  },
+  "measurement": {
+    "quantityUnit": "{{quantity}} {{unit}}"
+  },
+  "FrontOffice": {
+    "OPD": {
+      "Personal_Details": "Personal Details",
+      "Billing_Details": "Billing Details",
+      "search": "Search",
+      "patientRegistration": {
+        "Barcode": "Barcode",
+        "Visit_ID": "Visit ID",
+        "UHID": "UHID",
+        "Mobile_No": "Mobile No",
+        "First_Name": "First Name",
+        "Last_Name": "Last Name",
+        "Title": "Title",
+        "Male": "Male",
+        "Female": "Female",
+        "Others": "Others",
+        "DOB": "DOB",
+        "Age": "Age",
+        "Type": "Type",
+        "Gender": "Gender",
+        "email": "Email Address",
+        "Marital_Status": "Marital Status",
+        "ID_Proof_No": "ID Proof No",
+        "Local_Address": "Local Address",
+        "Perma_Address": "Perma Address",
+        "Country": "Country",
+        "State": "State",
+        "District": "District",
+        "City": "City",
+        "Reference_ID": "Reference ID",
+        "OldPatient": "Old Patient",
+        "ducument": "{{quantity}} ducument",
+        "Other": "Other",
+        "Code": "Code",
+        "LandLine_No": "LandLine No",
+        "Birth_Place": "Birth Place",
+        "Religion": "Religion",
+        "Relation_Of": "Relation Of",
+        "Relation_Name": "Relation Name",
+        "Relation": "Relation ",
+        "Relation_Phone": "Relation Phone",
+        "EMG_First_Name": "EMG.First Name",
+        "EMG_Last_Name": "EMG.Last Name",
+        "EMG_Relation": "EMG.Relation",
+        "EMG_Mobile_No": "EMG.Mobile No.",
+        "EMG_Resident_No": "EMG Resident No.",
+        "EMG_Address": "EMG Address .",
+        "IsInternational": "Is International",
+        "Locality": "Locality",
+        "Passport_Number": "Passport Number",
+        "International_No": "International No",
+        "Membership_No": "Membership No",
+        "Patient_Type": "Patient Type ",
+        "Emp_refID": "Emp.refID",
+        "Identity_Mark": "Identity Mark",
+        "Identity_Mark2": "Identity Mark2",
+        "Reference_Type": "Reference Type",
+        "MLC_NO": "MLC NO",
+        "MLC": "MLC ",
+        "Remarks": "Remarks ",
+        "IPD_No": "IPD No",
+        "Contact_No": "Contact No",
+        "Address": "Address",
+        "fromDate": "From Date",
+        "toDate": "To Date",
+        "test": "test"
+      },
+      "billingDetails": {
+        "billingDetailsName": "Billing Details",
+        "label": {
+          "PanelGroup": "Panel Group",
+          "Corporate": "Corporate",
+          "ReferalType": "Referal Type",
+          "Department": "Department",
+          "Panel": "Panel",
+          "IgnorePolicy": "Ignore Policy",
+          "ReferDoctor": "Refer Doctor",
+          "Doctor": "Doctor",
+          "ParentPanel": "Parent Panel",
+          "PROName": "PRO Name",
+          "Policy_No": "Policy No.",
+          "Policy_Card_No": "Policy Card No.",
+          "Name_On_Card": "Name On Card",
+          "Expire_Date": "Expire Date",
+          "Card_Holder": "Card Holder",
+          "Approval_Amount": "Approval Amount",
+          "Approval_Remark": "Approval Remark",
+          "Panel_Required_Document": "Panel Required Document's"
+        }
+      },
+      "testPayment": {
+        "label": {
+          "Type": "Type",
+          "Category": "Category",
+          "SubCategory": "SubCategory",
+          "Dispatch_Mode": "Dispatch Mode",
+          "Search": "Search",
+          "CPOE": "CPOE",
+          "Count": "Count",
+          "LastTokenNumber": "Last Token No.(Doc)",
+          "OnlineBooking": "Online Booking's"
+        }
+      },
+      "PaymentGateway": {
+        "label": {
+          "Currency": "Currency",
+          "Credit_Card": "Credit Card",
+          "PaymentMode": "PaymentMode",
+          "Factor": "Factor",
+          "Cash": "Cash",
+          "Check": "Check",
+          "Credit": "Credit",
+          "Online_Payment": "Online Payment",
+          "Paytm": "Paytm",
+          "Co-Pay_Percent": "Co-Pay_Percent",
+          "Co-Pay_Amount": "Co-Pay_Amount",
+          "Gross_Amount": "Gross_Amount",
+          "Net_Amount": "Net_Amount",
+          "Patient_Payable": "Patient_Payable",
+          "Panel_Payable": "Panel_Payable",
+          "Discount_Amt": "Discount_Amt",
+          "Paid_Amount": "Paid_Amount",
+          "Discount_in%": "Discount_in%",
+          "Round_Off": "Round_Off",
+          "Currency_Round": "Currency_Round",
+          "Balance_Amount": "Balance_Amount",
+          "Change": "Change",
+          "Return_Amt": "Return_Amt",
+          "Remarks": "Remarks"
+        }
+      },
+      "OPDRefund": {
+        "ReceiptNo": "Receipt No",
+        "Patient_Details": "Patient Details",
+        "Patient_Name": "Patient Name",
+        "Age": "Age",
+        "Amount": "Amount",
+        "Doctor": "Doctor",
+        "IPD_No": "IPD No.",
+        "Prescribed_Items": "Prescribed Items"
+      },
+      "Confirmation": {
+        "label": {
+          "Confirmation": "Confirmation",
+          "FromDate": "FromDate",
+          "ToDate": "ToDate",
+          "Status": "Status",
+          "AppointmentNo": "AppointmentNo",
+          "PatientType": "PatientType",
+          "PatientName": "PatientName",
+          "Specialization": "Specialization",
+          "DoctorName": "DoctorName",
+          "Search": "Search",
+          "Report": "Report"
+        }
+      }
+    },
+    "Re_Print": {
+      "label": {
+        "Bill": "Bill",
+        "ReceiptNo": "ReceiptNo",
+        "BillNo": "BillNo",
+        "UHID": "UHID",
+        "PatientName": "PatientName",
+        "FromDate": "FromDate",
+        "ToDate": "ToDate",
+        "Search": "Search",
+        "Patient Name": "Patient Name",
+        "Address": "Address",
+        "Receipt No": "Receipt No",
+        "Bill No": "Bill No",
+        "Date": "Date",
+        "Bill Amount": "Bill Amount",
+        "Print": "Print",
+        "Original": "Original",
+        "Receipt_Reprint": "Receipt_Reprint"
+      }
+    },
+    "PatientRegistration": {
+      "label": {
+        "Patient Black List": "Patient Black List",
+        "UHID": "UHID",
+        "PatientName": "PatientName",
+        "IPDNo": "IPDNo",
+        "ReceiptNo": "ReceiptNo",
+        "BillNo": "BillNo",
+        "ContactNo": "ContactNo",
+        "Search": "Search",
+        "StartDate": "StartDate",
+        "Reason": "Reason"
+      }
+    }
+  },
+  "modalComponent": {
+    "Utils": {
+      "ReferedDoctorModal": {
+        "label": {
+          "Title": "Title",
+          "Address": "Address",
+          "ContactNo": "ContactNo",
+          "Pro_Name": "Pro_Name",
+          "Name": "Name"
+        }
+      }
+    }
+  },
+  "Sidebar": {
+    "FrontOffice": {
+      "Registration": {
+        "Registration": "Registration",
+        "Register_Modify": "Register./ Modify",
+        "Patient_Black_List": "Patient Black List"
+      },
+      "OPD": {
+        "OPD": "OPD",
+        "OPD_servicebooking": "OPD Service Booking",
+        "Confirmation": "Confirmation",
+        "opd-setellment": "OPD Setellment",
+        "opd-refund": "OPD Refund",
+        "opd-advance": "OPD Advance"
+      },
+      "Reprint":{
+        "Reprint":"Reprint",
+        "Receipt-Re-Print":"Receipt Re-Print"
+      }
+    }
+  },
+  "datePickerComponent":{
+    "DatePicker": "DOB"
+  }
+}
